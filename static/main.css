@@ -30,6 +30,7 @@ html, body {
   width: 440px;
   margin-right: 50px;
   margin-bottom: 30px;
+  
 }
 
 .guide-listing:nth-child(odd) {
